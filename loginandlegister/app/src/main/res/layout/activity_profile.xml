@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    tools:context=".ProfileActivity"
+    android:background="@color/pale_black">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="현재 로그인되어있는 계정입니다"
+        style="@style/TextAppearance.MaterialComponents.Caption"/>
+    <TextView
+        android:id="@+id/emailTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textColor="@color/white"
+        style="@style/TextAppearance.MaterialComponents.Body1"/>
+    <Button
+        android:id="@+id/logoutBtn"
+        android:layout_marginTop="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"
+        android:textStyle="bold"
+        android:text="⚡     로그인 화면으로"/>
+    <Button
+        android:id="@+id/goWorld"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="🏁 장르별영화로 출발!"
+        android:textStyle="bold"
+        android:backgroundTint="@color/blue"
+        />
+   <Button
+       android:id="@+id/popularbtn"
+       android:layout_width="200dp"
+       android:layout_height="wrap_content"
+       android:backgroundTint="@color/red"
+       android:textStyle="bold"
+       android:textColor="@color/white"
+       android:text="🏆     오늘의 인기영화 TOP20"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RUSIA"
+        android:textStyle="bold"
+        android:textColor="@color/purple_900"
+        android:textSize="20sp"/>
+
+
+</LinearLayout>

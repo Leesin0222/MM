@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="장르">
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_sports"
+                    android:title="스포츠"
+                    android:icon="@drawable/ic_round_sports_basketball_24"/>
+
+                <item
+                    android:id="@+id/nav_romance"
+                    android:title="로맨스"
+                    android:icon="@drawable/ic_round_volunteer_activism_24"/>
+
+                <item
+                    android:id="@+id/nav_horror"
+                    android:title="공포"
+                    android:icon="@drawable/ic_round_mood_bad_24"/>
+
+                <item
+                    android:id="@+id/nav_action"
+                    android:title="액션"
+                    android:icon="@drawable/ic_round_sports_handball_24"/>
+            </group>
+        </menu>
+    </item>
+    <group>
+
+        <item
+            android:id="@+id/nav_credit"
+            android:title="개발자"
+            android:icon="@drawable/ic_round_emoji_events_24"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="갈림길로"
+            android:icon="@drawable/ic_round_call_split_24"/>
+
+    </group>
+
+</menu>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/drawable/ic_round_mood_bad_24.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/drawable/ic_round_volunteer_activism_24.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/drawable/splash_image.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/activity_profile.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/activity_world.xml" value="0.1265625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/fragment_credit.xml" value="0.1265625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/fragment_romance.xml" value="0.1265625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/fragment_sports.xml" value="0.1265625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/layout/nav_header.xml" value="0.136" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/loginandlegister/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable/github_icon.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable/ic_main_background.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable/logo_icon.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable/outlay.xml" value="0.265625" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/drawable/splash_image.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/font/fonts.xml" value="0.2796875" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/activity_popular.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/activity_world.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_action.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_credit.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_horror.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_out.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_romance.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/fragment_sports.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/movie_item.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/mipmap-anydpi-v26/ic_con.xml" value="0.26153846153846155" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/mipmap-anydpi-v26/ic_main.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/user/Desktop/dd/MM/loginandlegister/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

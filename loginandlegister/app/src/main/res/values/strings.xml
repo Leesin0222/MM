@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MM</string>
+    <string name="no_account">계정이 없으신가요? <b>회원가입</b></string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Gologin">계정이 있으시다면 <b>로그인</b></string>
+
+</resources>
